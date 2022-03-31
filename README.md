@@ -1,6 +1,11 @@
 # Project demonstrating basics of JavaFX
 
-## To run project:
+## To run cli:
 ```
-  ./gradlew run
+  ./gradlew :cli:run
+```
+
+## To run desktop:
+```
+  ./gradlew :desktop:run
 ```
