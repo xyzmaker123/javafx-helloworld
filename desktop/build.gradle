@@ -25,6 +25,7 @@ dependencies {
     implementation("com.google.inject:guice:5.0.1") {
         exclude(module: 'guava')
     }
+    implementation 'com.github.xyzmaker123:javafx-validation:b0b2189f6'
 }
 
 application {
